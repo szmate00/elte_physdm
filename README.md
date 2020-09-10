@@ -1,2 +1,4 @@
-# elte_physdm
-Repository for my coursework in "Deep learning and machine learning in science" course at ELTE
+# Data mining and machine learning - 2020 Fall
+Repository for my coursework in "Data mining and machine learning" course at ELTE
+## Homeworks
+**1. Exploratory data analysis**
