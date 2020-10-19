@@ -1,4 +1,4 @@
-<img src="https://ttkhok.elte.hu/sites/default/files/mindentudas-egyeteme/elte_cimer_ff.jpg" height="150" />
+<img src="https://ttkhok.elte.hu/sites/default/files/mindentudas-egyeteme/elte_cimer_ff.jpg" height="180" />
 
 # Data mining and machine learning - 2020 Fall
 Repository for my coursework in "Data mining and machine learning" course at ELTE<br>
