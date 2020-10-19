@@ -10,4 +10,5 @@ The final grade is determined by the result of the homeworks and one main projec
 **4. Linear regression**<br>
 **5. Logistic regression**<br>
 **6. Model selection**<br>
+*(Some notebooks use interactive plots like plotly, use [nbviewer](https://nbviewer.jupyter.org/ to be able to render them appropriately.)*
 ## Main project
