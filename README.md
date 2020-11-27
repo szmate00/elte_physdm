@@ -3,6 +3,7 @@
 # Data mining and machine learning - Fall 2020
 Repository for my coursework in "Data mining and machine learning" course at ELTE<br>
 The final grade is determined by the result of the homeworks and one main project in 80/20 proportion.
+TODO: show mistakes in homeworks
 ## Homeworks
 **1. [Exploratory data analysis](https://github.com/szmate00/elte_physdm/blob/master/Homework%201/01_hw_solution.ipynb)** score: 9.0/10<br>
 **2. [Unsupervised learning & clustering](https://github.com/szmate00/elte_physdm/blob/master/Homework%202/02_unsup_cluster_hw.ipynb)** score: 10/10<br>
