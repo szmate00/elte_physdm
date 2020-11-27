@@ -11,5 +11,10 @@ TODO: show mistakes in homeworks
 **4. [Linear regression](https://github.com/szmate00/elte_physdm/blob/master/Homework%204/04_linreg_hw.ipynb)** score: 9.5/10<br>
 **5. [Logistic regression](https://github.com/szmate00/elte_physdm/blob/master/Homework%205/05_logreg_hw.ipynb)** score: 9.5/10<br>
 **6. [Model selection](https://github.com/szmate00/elte_physdm/blob/master/Homework%206/06_modelselection_hw.ipynb)** score: 9.0/10<br>
+**7. [SVM](https://github.com/szmate00/elte_physdm/blob/master/Homework%207/lab07.ipynb)** score: 7.0/10<br>
+**8. [Tree models](https://github.com/szmate00/elte_physdm/blob/master/Homework%208/08_tree_models_hw.ipynb)** score: 10/10<br>
+**9. [Fully connected neural networks](https://github.com/szmate00/elte_physdm/blob/master/Homework%209/09_colab.ipynb)** score: 9.0/10<br>
+**10. [Convolutional neural networks](https://github.com/szmate00/elte_physdm/blob/master/Homework%2010/10_colab.ipynb)** score: 10/10<br>
+**11. [More neural networks](https://github.com/szmate00/elte_physdm/blob/master/Homework%2011/11_colab.ipynb)** score: /10<br>
 *(Some notebooks use interactive plots like plotly, use [nbviewer](https://nbviewer.jupyter.org/) to be able to render them appropriately.)*
 ## Main project
